@@ -25,45 +25,27 @@ We have language bindings in Shell, Ruby, and Python! You can view code examples
 
 This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
-# Authentication
+# General
 
-> To authorize, use this code:
-
-```ruby
-require 'kittn'
-
-api = Kittn::APIClient.authorize!('meowmeowmeow')
-```
-
-```python
-import kittn
-
-api = kittn.authorize('meowmeowmeow')
-```
-
-```shell
-# With shell, you can just pass the correct header with each request
-curl "api_endpoint_here"
-  -H "Authorization: meowmeowmeow"
-```
-
-```javascript
-const kittn = require('kittn');
-
-let api = kittn.authorize('meowmeowmeow');
-```
-
-> Make sure to replace `meowmeowmeow` with your API key.
-
-Kittn uses API keys to allow access to the API. You can register a new Kittn API key at our [developer portal](http://example.com/developers).
-
-Kittn expects for the API key to be included in all API requests to the server in a header that looks like the following:
+The project will respect a certain structure and coding conventions.
 
 `Authorization: meowmeowmeow`
 
 <aside class="notice">
-You must replace <code>meowmeowmeow</code> with your personal API key.
+You have to respect them!
 </aside>
+
+## Coding conventions
+
+* English
+* CamelCase style
+* 1 tab = 4 spaces
+* 1TBS : One True Brace Style
+* Use ES6 : let, lambda functions
+
+## Architecture
+
+View it here with draw.io : https://www.draw.io/?chrome=0&lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=Arch-General.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D0Bzic9nsOUnYgSno3NzNuUjR5WDQ%26export%3Ddownload
 
 # Kittens
 
