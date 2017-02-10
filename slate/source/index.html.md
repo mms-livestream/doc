@@ -45,7 +45,8 @@ You have to respect them!
 
 ## Architecture
 
-View it here with draw.io : https://www.draw.io/?chrome=0&lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=Arch-General.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D0Bzic9nsOUnYgSno3NzNuUjR5WDQ%26export%3Ddownload
+The architecture is available [here](https://www.draw.io/?chrome=0&lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=Arch-General.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D0Bzic9nsOUnYgSno3NzNuUjR5WDQ%26export%3Ddownload)
+with draw.io.
 
 # Kittens
 
