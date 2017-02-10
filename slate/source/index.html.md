@@ -11,9 +11,6 @@ toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
   - <a href='https://github.com/tripit/slate'>Documentation for MMS Live Stream</a>
 
-includes:
-[//]: # " - errors" 
-
 search: true
 ---
 
