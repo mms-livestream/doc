@@ -12,7 +12,7 @@ toc_footers:
   - <a href='https://github.com/tripit/slate'>Documentation for MMS Live Stream</a>
 
 includes:
-  - errors
+[//]: # " - errors" 
 
 search: true
 ---
