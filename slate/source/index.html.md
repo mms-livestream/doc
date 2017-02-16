@@ -32,7 +32,7 @@ You have to respect them!
 * CamelCase style
 * 1 tab = 4 spaces
 * 1TBS : One True Brace Style
-* Use ES6 : let, lambda functions
+* Use ES6 : let, lambda functions, classes
 
 ## Architecture
 
