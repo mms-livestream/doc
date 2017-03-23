@@ -43,5 +43,6 @@ with draw.io.
 
 Operation of transcode with ffmepg
 Fork a child, cut in small piece of x sec the stream et trancode it in mp4 with the choice of bitrate and definition.
+use mp4box for taking y (number of quality availble) small pieces and transcode it in .m4s with mpd generation and mp4 generation for metadata.
 
 
